@@ -63,11 +63,14 @@
 	#include "torch-11.dmm"
 
 	#include "../../code/modules/lobby_music/chasing_time.dm"
-	#include "../../code/modules/lobby_music/absconditus.dm"
 	#include "../../code/modules/lobby_music/clouds_of_fire.dm"
 	#include "../../code/modules/lobby_music/endless_space.dm"
 	#include "../../code/modules/lobby_music/dilbert.dm"
-	#include "../../code/modules/lobby_music/space_oddity.dm"
+	#include "../../code/modules/lobby_music/keytronic.dm"
+	#include "../../code/modules/lobby_music/La_mer.dm"
+	#include "../../code/modules/lobby_music/lobby_piano_1.dm"
+	#include "../../code/modules/lobby_music/synapsis.dm"
+
 
 	#define USING_MAP_DATUM /datum/map/torch
 
